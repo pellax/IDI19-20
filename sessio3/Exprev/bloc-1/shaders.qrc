@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC VERSION="1.0">
+    <qresource>
+        <file>shaders/basicShader.vert</file>
+        <file>shaders/basicShader.frag</file>
+    </qresource>
+</RCC>
